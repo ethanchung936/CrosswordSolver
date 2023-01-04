@@ -36,3 +36,5 @@ Then, to run the program do:
 - crossword.txt can be replaced by any text file with a crossword template.
 - The first number is the maximum number of solutions to be output.
 - The second number is the number of words from the word list that are to be used in finding solutions.
+
+Example files have been included for ease of use.
