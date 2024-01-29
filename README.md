@@ -1,8 +1,8 @@
 # CrosswordSolver
 This is a program that takes a crossword template and a set of words and returns a file containing solutions to the template based on the given words.
-This is achieved by using a recursive backtracking algorithm.
+This is achieved by using a recursive backtracking algorithm. Created for CMPUT 201 Fall 2022
 
-This is a C program and can be run on Linux or on Winodows using MinGW.
+This is a C program and can be run on Linux or on Windows using MinGW.
 
 On Linux simply run the make command to compile:
 ```
